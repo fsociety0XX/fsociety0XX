@@ -1,21 +1,21 @@
-### Hi there, I'm [Kushagra][website] 👋
+### Hey! I'm [Kushagra][website] 👋
 
 [![Website](https://img.shields.io/website?label=kushagra&style=for-the-badge&url=https://info-kushagra.netlify.app)](https://info-kushagra.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/demetor_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffsociety0XX&screen_name=demetor_)
 
 ## I'm a Software Developer!!
 
-- 📫 Reach me out [here][website]
-- 🌱 I’m currently learning MongoDB 
-- 👯 I’m love to collaborate with other developers for unique projects
-- 🥅 I love to write technical blogs to support our community
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 📫 Reach out to me [here][website]
+- 👾 I’m currently learning MongoDB 
+- 🤍 I’m love to collaborate with other developers for unique projects
+- 🔥 I love to write technical blogs to support our community
+- ⚡ Fun fact: I love to draw and read books and blogs
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://info-kushagra.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kushagra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kushagra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
