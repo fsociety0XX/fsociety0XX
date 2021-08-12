@@ -7,7 +7,7 @@
 
 - 📫  Reach out to me [here][website]
 - 👾  I’m currently learning MongoDB 
-- 🤍  I’m love to collaborate with other developers for unique projects
+- 🤍  I love to collaborate with other developers for unique projects
 - 🔥  I love to write technical blogs to support our community
 - ⚡  Fun fact: I love to draw and read books and blogs
 
