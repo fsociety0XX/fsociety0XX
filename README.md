@@ -1,7 +1,7 @@
-### Hi there, I'm Kushagra - aka [codeSTACKr][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://info-kushagra.netlify.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffsociety0XX&screen_name=Kushagra)
+### Hi there, I'm [Kushagra] [website] 👋
+https://info-kushagra.netlify.app
+[![Website](https://img.shields.io/website?label=info-kushagra.netlify.app&style=for-the-badge&url=https%3A%2F%2Finfo-kushagra.netlify.app)](https://info-kushagra.netlify.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/demetor_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffsociety0XX&screen_name=Kushagra)
 
 ## I'm a Software Developer!!
 
