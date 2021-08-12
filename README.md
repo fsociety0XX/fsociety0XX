@@ -6,10 +6,10 @@
 ## I'm a Software Developer!!
 
 - 📫  Reach out to me [here][website]
-- 👾  I’m currently learning MongoDB 
 - 🤍  I love to collaborate with other developers for unique projects
 - 🔥  I love to write technical blogs to support our community
-- ⚡  Fun fact: I love to draw and read books and blogs
+- 👾  I’m currently learning MongoDB 
+- ⚡  Fun fact: I also like reading books and blogs
 
 ### Languages and Tools:
 
