@@ -1,15 +1,15 @@
 ### Hey! I'm [Kushagra][website] 👋
 
-[![Website](https://img.shields.io/website?label=kushagra&style=for-the-badge&url=https://info-kushagra.netlify.app)](https://info-kushagra.netlify.app)
+[![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https://info-kushagra.netlify.app)](https://info-kushagra.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/demetor_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffsociety0XX&screen_name=demetor_)
 
 ## I'm a Software Developer!!
 
-- 📫 Reach out to me [here][website]
-- 👾 I’m currently learning MongoDB 
-- 🤍 I’m love to collaborate with other developers for unique projects
-- 🔥 I love to write technical blogs to support our community
-- ⚡ Fun fact: I love to draw and read books and blogs
+- 📫  Reach out to me [here][website]
+- 👾  I’m currently learning MongoDB 
+- 🤍  I’m love to collaborate with other developers for unique projects
+- 🔥  I love to write technical blogs to support our community
+- ⚡  Fun fact: I love to draw and read books and blogs
 
 ### Connect with me:
 
